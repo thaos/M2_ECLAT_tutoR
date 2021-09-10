@@ -1,4 +1,4 @@
 install.packages(
   "fields",
-  "maps",
+  "maps"
 )
