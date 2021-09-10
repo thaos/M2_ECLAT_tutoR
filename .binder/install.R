@@ -1,4 +1,6 @@
 install.packages(
-  "fields",
-  "maps"
+  c(
+    "fields",
+    "maps"
+  )
 )
