@@ -1,6 +1,7 @@
 install.packages(
   c(
     "fields",
-    "maps"
+    "maps",
+    "spam"
   )
 )
